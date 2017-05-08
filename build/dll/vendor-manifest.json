@@ -589,8 +589,9 @@
     "./node_modules/redbox-react/lib/lib.js": 586,
     "./node_modules/react-hot-loader/index.js": 587,
     "./node_modules/react-hot-loader/lib/index.js": 588,
-    "./node_modules/react-hot-loader/lib/AppContainer.js": 589,
-    "./node_modules/react-hot-loader/lib/AppContainer.prod.js": 590,
-    "./node_modules/antd-mobile/lib/warn.js": 591
+    "./node_modules/react-hot-loader/lib/index.prod.js": 589,
+    "./node_modules/react-hot-loader/lib/AppContainer.js": 590,
+    "./node_modules/react-hot-loader/lib/AppContainer.prod.js": 591,
+    "./node_modules/antd-mobile/lib/warn.js": 592
   }
 }
